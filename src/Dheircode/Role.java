@@ -6,7 +6,7 @@ public class Role {
 	private String permission;
 	private String userId;
 
-	public void managerUserAccounts() {
+	public void manageUserAccounts() {
 		throw new UnsupportedOperationException();
 	}
 }
