@@ -1,7 +1,7 @@
 package Dheircode;
 public class Household {
 
-	private String hosheholdId;
+	private String householdId;
 	private String kebele;
 	private String headOfHouse;
 	private int familySize;
